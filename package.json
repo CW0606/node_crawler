@@ -1,0 +1,23 @@
+{
+  "name": "node_crawler",
+  "version": "1.6.6",
+  "description": "一个简单的爬虫Node 爬虫",
+  "main": "crawler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CW0606/node_crawler.git"
+  },
+  "keywords": [
+    "爬虫",
+    "node"
+  ],
+  "author": "王昭",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CW0606/node_crawler/issues"
+  },
+  "homepage": "https://github.com/CW0606/node_crawler#readme"
+}
