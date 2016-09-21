@@ -19,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/CW0606/node_crawler/issues"
   },
-  "homepage": "https://github.com/CW0606/node_crawler#readme"
+  "homepage": "https://github.com/CW0606/node_crawler#readme",
+  "dependencies": {
+    "async": "^2.0.1",
+    "cheerio": "^0.22.0",
+    "http": "0.0.0",
+    "request": "^2.74.0",
+    "sleep": "^3.0.1",
+    "superagent": "^2.2.0"
+  }
 }
